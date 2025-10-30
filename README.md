@@ -109,7 +109,7 @@ The water quality labels are based on the CPCB standards for WQI:
 
 5. Click "Deploy" and wait for the deployment to complete
 
-6. Your app will be available at a URL like: `https://yourusername-water-quality-classification-app-xyz.streamlit.app`
+6. Your app will be available at a URL like: `https://water-quality-classification-arugun5dvbub7dsasg9g2h.streamlit.app/`
 
 ## Requirements
 
